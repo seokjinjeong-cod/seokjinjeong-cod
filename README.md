@@ -1,1 +1,2 @@
-- 👋 Hi, I’m seokjin jeong
+- 👋 Hi, I’m seokjin jeong 
+-  This is my record here.
