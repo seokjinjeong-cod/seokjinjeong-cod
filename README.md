@@ -13,9 +13,5 @@ Backend Developer focused on building scalable web services and AI-based platfor
 - Data Processing & Visualization
 - System Architecture & Performance Optimization
 
-### 📌 Projects
-- AI Agent Web Platform (AITOM)
-- Data-driven dashboard & automation tools
-
 ---
 💡 Always building, improving, and optimizing systems.
